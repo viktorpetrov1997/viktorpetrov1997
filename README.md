@@ -55,5 +55,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-[![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorpetrov1997)](https://github.com/viktorpetrov1997/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorpetrov1997)](https://github.com/viktorpetrov1997/github-readme-stats)
 </div>

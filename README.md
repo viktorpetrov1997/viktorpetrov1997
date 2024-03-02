@@ -54,6 +54,35 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorpetrov1997)](https://github.com/viktorpetrov1997/github-readme-stats)
+
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997" />
+  </a>
+  <a href="https://github.com/viktorpetrov1997/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997" />
+  </a>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+

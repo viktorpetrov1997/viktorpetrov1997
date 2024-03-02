@@ -51,3 +51,9 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+[![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorpetrov1997)](https://github.com/viktorpetrov1997/github-readme-stats)
+</div>

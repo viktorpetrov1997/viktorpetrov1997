@@ -77,11 +77,4 @@
 <br>
 <br>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    ![Snake animation](https://raw.githubusercontent.com/{viktorpetrov1997}/{viktorpetrov1997}/output/github-contribution-grid-snake-dark.svg)
-  <br/><br/><br/>
-</div>
-
 

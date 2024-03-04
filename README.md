@@ -39,7 +39,7 @@
   ![Static Badge](https://img.shields.io/badge/Spring-black?style=flat&logo=Spring)
   ![Static Badge](https://img.shields.io/badge/Hibernate-black?style=flat&logo=Hibernate)
 - 🔧 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=IntelliJ%20IDEA)
+  ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=IntelliJ%20IDEA)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;

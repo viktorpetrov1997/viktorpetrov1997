@@ -34,7 +34,7 @@
   ![Static Badge](https://img.shields.io/badge/jQuery-black?style=flat&logo=jQuery)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-     ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Static Badge](https://img.shields.io/badge/Spring-black?style=flat&logo=Spring)
   ![Static Badge](https://img.shields.io/badge/Hibernate-black?style=flat&logo=Hibernate)

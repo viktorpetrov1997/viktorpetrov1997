@@ -48,7 +48,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997" />
+    <img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact)" />
   </a>
   <a href="https://github.com/viktorpetrov1997/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997" />

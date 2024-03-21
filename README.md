@@ -43,10 +43,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align="center"">
     <a href="https://github.com/viktorpetrov1997/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
     </a>

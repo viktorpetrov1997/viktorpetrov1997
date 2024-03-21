@@ -46,13 +46,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div style="display: flex; justify-content: space-between;>
-    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="center" width="470px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
-    </a>
-    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="center" width="475px" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues" />
-    </a>
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=viktorpetrov1997&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorpetrov1997&theme=onedark" />
 </div>
 
 

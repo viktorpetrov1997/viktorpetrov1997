@@ -46,9 +46,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: space-between;>
     <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
     </a>
 </div>
 

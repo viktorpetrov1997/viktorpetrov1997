@@ -45,27 +45,5 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
-  </a>
-  <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997" />
-  </a>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 

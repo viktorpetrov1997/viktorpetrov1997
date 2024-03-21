@@ -47,13 +47,18 @@
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" style="margin-right: 100px;" />
-    </a>
-    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues" />
-    </a>
+    <div style="margin-right: 10px;">
+        <a href="https://github.com/viktorpetrov1997/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/viktorpetrov1997/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues" />
+        </a>
+    </div>
 </div>
+
 
 
 <br>

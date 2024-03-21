@@ -70,4 +70,6 @@
 <br>
 <br>
 
+![Snake animation](https://raw.githubusercontent.com/{viktorpetrov1997}/{viktorpetrov1997}/output/github-contribution-grid-snake-dark.svg)
+
 

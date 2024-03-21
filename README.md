@@ -47,7 +47,7 @@
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 10px;">
+    <div style="margin-right: 100px;">
         <a href="https://github.com/viktorpetrov1997/github-readme-stats">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
         </a>

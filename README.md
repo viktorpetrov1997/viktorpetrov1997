@@ -45,5 +45,24 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    </a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 

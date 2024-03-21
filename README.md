@@ -48,10 +48,10 @@
 
 <div style="display: flex; justify-content: space-between;>
     <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
     </a>
     <a href="https://github.com/viktorpetrov1997/github-readme-stats">
-    <img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues" />
     </a>
 </div>
 

@@ -49,24 +49,9 @@
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997">
   <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=viktorpetrov1997&theme=default">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graphusername=viktorpetrov1997&bg_color=ffffff&color=000000&line=000000&point=ff0000&area=true&hide_border=true">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorpetrov1997&theme=default"/>
 </div>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 

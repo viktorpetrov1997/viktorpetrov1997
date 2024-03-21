@@ -53,6 +53,9 @@
     <a href="https://github.com/viktorpetrov1997/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=viktorpetrov1997&hide=contribs,prs,issues" />
     </a>
+    <a href="https://github.com/viktorpetrov1997/github-readme-stats">
+    <img align="center" src="https://raw.githubusercontent.com/{viktorpetrov1997}/{viktorpetrov1997}/output/github-contribution-grid-snake-dark.svg" />
+    </a>
 </div>
 
 
@@ -70,6 +73,5 @@
 <br>
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/{viktorpetrov1997}/{viktorpetrov1997}/output/github-contribution-grid-snake-dark.svg)
 
 

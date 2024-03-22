@@ -36,10 +36,10 @@
   ![Static Badge](https://img.shields.io/badge/Spring-rgb(128%2C128%2C128)?style=flat&logo=Spring)
   ![Static Badge](https://img.shields.io/badge/Hibernate-rgb(128%2C128%2C128)?style=flat&logo=Hibernate)
 - 🔧 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=IntelliJ%20IDEA)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
+  ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-rgb(128%2C128%2C128)?style=flat&logo=IntelliJ)
+  ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-rgb(128%2C128%2C128)?style=flat&logo=Visual%20Studio%20Code)
+  ![Static Badge](https://img.shields.io/badge/Eclipse-rgb(128%2C128%2C128)?style=flat&logo=Eclipse)
+  
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 

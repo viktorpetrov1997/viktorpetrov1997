@@ -36,7 +36,8 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
-  ![Static Badge](https://img.shields.io/badge/Spring-gray?style=flat&logo=Spring)
+  ![Static Badge](https://img.shields.io/badge/Spring-rgb(128%2C128%2C128)?style=flat&logo=Spring)
+  ![Static Badge](https://img.shields.io/badge/Hibernate-rgb(128%2C128%2C128)?style=flat&logo=Hibernate)
 - 🔧 &nbsp;
   ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=IntelliJ%20IDEA)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)

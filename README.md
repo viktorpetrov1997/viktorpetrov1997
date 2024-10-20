@@ -5,7 +5,7 @@
 </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 &nbsp;Studied software engineering at SoftUni, specializing as a Java full stack developer. <br>
+- 🎓 &nbsp;Studied software engineering, specializing as a Java full stack developer. <br>
 - 💼 &nbsp;Looking to launch a career in software development. <br>
 - 🌱 &nbsp;Continuously seeking growth and improvement, I remain committed to expanding my expertise and staying abreast of the latest advancements in technology. I'm passionate about leveraging my skills to create innovative solutions that make a positive impact in the world.
 

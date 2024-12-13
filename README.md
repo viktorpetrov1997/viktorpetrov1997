@@ -43,7 +43,7 @@
 
 <div>
   <img width="420px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact&theme=transparent" />
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorpetrov1997&theme=default" />
+  <img width="420px" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viktorpetrov1997&theme=dark)](https://git.io/streak-stats)" />
 </div>
 
 

@@ -29,7 +29,7 @@
   ![Static Badge](https://img.shields.io/badge/HTML-rgb(128%2C128%2C128)?style=flat&logo=HTML5)
   ![Static Badge](https://img.shields.io/badge/CSS-rgb(128%2C128%2C128)?style=flat&logo=CSS3)
 - 🛢 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/MySQL-rgb(128%2C128%2C128)?style=flat)
+   ![Static Badge](https://img.shields.io/badge/MySQL-rgb(128%2C128%2C128)?style=flat)
 - ⚙️ &nbsp;
   ![Static Badge](https://img.shields.io/badge/Spring-rgb(128%2C128%2C128)?style=flat&logo=Spring)
   ![Static Badge](https://img.shields.io/badge/Hibernate-rgb(128%2C128%2C128)?style=flat&logo=Hibernate)

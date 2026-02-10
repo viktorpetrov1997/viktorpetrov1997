@@ -45,3 +45,5 @@
   <img width="420px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact&theme=transparent" />
   <img width="420px" src="https://nirzak-streak-stats.vercel.app/?user=viktorpetrov1997"/>
 </div>
+
+![snake gif](https://github.com/viktorpetrov1997/viktorpetrov1997/github-contribution-grid-snake.svg)

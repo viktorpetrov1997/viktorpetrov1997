@@ -15,7 +15,7 @@
   <a href="mailto:viktor.petrov0497@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/viktor-petrov-46684a2a9" target="_blank">
+  <a href="https://linkedin.com/in/viktor-petrov42" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -36,6 +36,7 @@
 - 🔧 &nbsp;
   ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-rgb(128%2C128%2C128)?style=flat&logo=IntelliJ)
   ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-rgb(128%2C128%2C128)?style=flat&logo=Visual%20Studio%20Code)
+  ![Static Badge](https://img.shields.io/badge/MySQL%20Workbench)
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

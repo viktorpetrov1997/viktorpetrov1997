@@ -37,6 +37,8 @@
   ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-rgb(128%2C128%2C128)?style=flat&logo=IntelliJ)
   ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-rgb(128%2C128%2C128)?style=flat&logo=Visual%20Studio%20Code)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

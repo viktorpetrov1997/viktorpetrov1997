@@ -23,24 +23,20 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/Java-rgb(128%2C128%2C128)?style=flat&logo=Java)
-  ![Static Badge](https://img.shields.io/badge/JavaScript-rgb(128%2C128%2C128)?style=flat&logo=JavaScript)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - 🌐 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/HTML-rgb(128%2C128%2C128)?style=flat&logo=HTML5)
-  ![Static Badge](https://img.shields.io/badge/CSS-rgb(128%2C128%2C128)?style=flat&logo=CSS3)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 - 🛢 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/MySQL-rgb(128%2C128%2C128)?style=flat)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
-  ![Static Badge](https://img.shields.io/badge/Spring-rgb(128%2C128%2C128)?style=flat&logo=Spring)
-  ![Static Badge](https://img.shields.io/badge/Hibernate-rgb(128%2C128%2C128)?style=flat&logo=Hibernate)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 - 🔧 &nbsp;
-  ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-rgb(128%2C128%2C128)?style=flat&logo=IntelliJ)
-  ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-rgb(128%2C128%2C128)?style=flat&logo=Visual%20Studio%20Code)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-
-
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -49,6 +45,3 @@
   <img width="420px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact&theme=transparent" />
   <img width="420px" src="https://nirzak-streak-stats.vercel.app/?user=viktorpetrov1997"/>
 </div>
-
-
-

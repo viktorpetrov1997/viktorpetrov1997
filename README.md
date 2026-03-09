@@ -37,6 +37,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

@@ -3,9 +3,9 @@
 </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-• 🎓 &nbsp;Studying software engineering, specializing as a Java full stack developer. <br>
-• 💼 &nbsp;Looking to launch a career in software development. <br>
-• 🌱 &nbsp;Continuously seeking growth and improvement, I remain committed to expanding my expertise and staying abreast of the latest advancements in technology. I'm passionate about leveraging my skills to create innovative solutions that make a positive impact in the world.
+• 🎓 &nbsp;Studying <strong>software engineering</strong>, specializing as a <strong>Java Full Stack Developer</strong>. <br>
+• 💼 &nbsp;Looking to <strong>launch a career</strong> in software development. <br>
+• 🌱 &nbsp;<strong>Continuously</strong> seeking growth and improvement, I remain committed to expanding my expertise and staying abreast of the latest advancements in technology. I'm passionate about leveraging my skills to create innovative solutions that make a positive impact in the world.
 
 <br> 
 

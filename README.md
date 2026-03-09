@@ -9,9 +9,9 @@
 
 <br> 
 
-<br> 
+<h3>📫 &nbsp;Contact Me</h3>
 
-<div align="left"> 
+<div> 
   <a href="mailto:viktor.petrov0497@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>

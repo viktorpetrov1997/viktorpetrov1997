@@ -9,16 +9,20 @@
 
 <br> 
 
+---
+
 <h3>📫 &nbsp;Contact Me</h3>
 
-<div> 
+<div>
   <a href="mailto:viktor.petrov0497@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-viktor.petrov0497%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/viktor-petrov42" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<hr>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

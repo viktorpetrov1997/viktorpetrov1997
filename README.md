@@ -42,7 +42,6 @@
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=viktorpetrov1997)
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

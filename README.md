@@ -44,10 +44,11 @@
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 
 <div>
   <img width="420px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viktorpetrov1997&layout=compact&theme=transparent" />
-  <img width="420px" src="https://streak-stats.demolab.com?user=viktorpetrov1997"/>
+  <img width="420px" src="https://streak-stats.demolab.com?user=viktorpetrov1997&v=1"/>
   <!-- <img width="420px" src="https://nirzak-streak-stats.vercel.app/?user=viktorpetrov1997"/> -->
 </div>

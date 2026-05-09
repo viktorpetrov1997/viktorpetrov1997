@@ -9,7 +9,7 @@
 
 <br> 
 
-<hr>
+---
 
 <h3>📫 &nbsp;Contact Me</h3>
 
@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<hr>
+---
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
